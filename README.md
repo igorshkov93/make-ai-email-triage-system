@@ -123,7 +123,7 @@ Return JSON with EXACTLY these keys:
 
 ## Run it yourself
 
-1. Download 'blueprint/ai-email-triage.blueprint.json'.
+1. Download "blueprint/ai-email-triage.blueprint.json".
 2. In Make.com: **Create a new scenario → ⋯ menu → Import Blueprint** and select the file.
 3. Reconnect the four connections (Gmail, Google Gemini, Google Sheets, Slack) with your own accounts.
 4. Point the Google Sheets module at a sheet with the header row:
