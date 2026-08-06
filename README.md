@@ -5,7 +5,7 @@
 
 > An end-to-end automation that reads every incoming email with **Google Gemini**, classifies it, extracts key entities, and routes it to one of **five actions** — auto-reply, ticket, alert, archive, or human escalation. Built in **Make.com**, no manual sorting required.
 
-🎥 **[Watch the 60-second demo on Loom](https://www.loom.com/share/3d7bd83c10c04c3993769b51de7cc71f)**
+🎥 **[Watch the 50-second demo on Loom](https://www.loom.com/share/3d7bd83c10c04c3993769b51de7cc71f)**
 
 ---
 
