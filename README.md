@@ -1,9 +1,11 @@
+<!-- Language switcher -->
+**English** · [Українська](README.uk.md) · [Русский](README.ru.md)
+
 # AI Email Triage System
 
 > An end-to-end automation that reads every incoming email with **Google Gemini**, classifies it, extracts key entities, and routes it to one of **five actions** — auto-reply, ticket, alert, archive, or human escalation. Built in **Make.com**, no manual sorting required.
 
-<!-- Optional: replace with your Loom link once recorded -->
-🎥 **[Watch the 60-second demo](https://www.loom.com/share/b2b2b051706e4357b2a4ee3f5ae02322)**
+🎥 **[Watch the 90-second demo on Loom](https://www.loom.com/share/b2b2b051706e4357b2a4ee3f5ae02322)**
 
 ---
 
@@ -144,5 +146,5 @@ Return JSON with EXACTLY these keys:
 
 ## Author
 
-**Igor Gorshkov** — Support Engineer moving into AI Automation.
+**Igor Gorshkov** — former Crocoblock support agent, now moving into AI automation.
 Built as part of an AI automation portfolio.
